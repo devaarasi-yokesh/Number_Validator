@@ -1,0 +1,10 @@
+*,body{
+  margin:0;
+padding:0;  box-sizing:border-box;
+}
+#results-div{
+  margin:20px;
+  width:250px;
+  height:140px;
+  border:2px solid black;
+}
